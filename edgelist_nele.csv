@@ -1,8 +1,0 @@
-from,to,weight,relation
-NC,MB,3,2
-NC,BC,3,1
-NC,AC,3,1
-NC,AS,2,3
-BC,AC,3,2
-AS,BC,1,4
-AS,AC,1,4
